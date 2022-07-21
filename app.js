@@ -5,7 +5,7 @@ const config = {
   host: 'ftp.abecode.com',
   port: 21,
   user: 'cameraroll@pruebas.abecode.com',
-  password: 'Warewolf15'
+  password: ''
 };
 
 const options = {
